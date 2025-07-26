@@ -3,7 +3,6 @@
 int main(){
 
 int a,b,c;
-clrscr();
 printf("\nenter A");
 scanf("%d",&a);
 printf("\nenter B");
