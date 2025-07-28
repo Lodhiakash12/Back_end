@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
-int main(){
+
+void main(){
 
 int a,b,c;
 printf("\nenter A");
